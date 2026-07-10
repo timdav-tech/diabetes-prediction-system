@@ -29,16 +29,6 @@ The project includes:
 
 The project uses the **Pima Indians Diabetes Dataset**, which contains medical information for female patients of Pima Indian heritage.
 
-### Features
-
-* Pregnancies
-* Glucose
-* BloodPressure
-* SkinThickness
-* Insulin
-* BMI
-* DiabetesPedigreeFunction
-* Age
 
 ### Target
 
